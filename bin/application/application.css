@@ -1,0 +1,80 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#catSelectBtn,
+#multiSelectBtn,
+#dogSelectBtn,
+#startBtn,
+#endDogSelectBtn,
+#endCatSelectBtn,
+#endMulSelectBtn,
+#CatHomeBtn,
+#DogHomeBtn,
+#catCloseBtn,
+#dogCloseBtn,
+#mulCloseBtn,
+#DogChangeBtn,
+#MulHomeBtn,
+#MulChangeBtn,
+#catChangeBtn {
+	-fx-background-color: black;
+}
+
+#startPane {
+	-fx-background-image: url(/img/Start.jpg);
+	-fx-background-size: cover;
+	-fx-background-position: center center;
+}
+
+#selectPane {
+	-fx-background-image: url(/img/select.png);
+	-fx-background-size: cover;
+	-fx-background-position: center center;
+}
+
+#DogLayout {
+	-fx-background-image: url(/img/DogLayout.png);
+	-fx-background-size: cover;
+	-fx-background-position: center center;
+}
+
+#CatLayout {
+	-fx-background-image: url(/img/CatLayout.png);
+	-fx-background-size: cover;
+	-fx-background-position: center center;
+}
+
+#MultiLayout {
+	-fx-background-image: url(/img/MultiLayout.png);
+	-fx-background-size: cover;
+	-fx-background-position: center center;
+}
+
+#endDogPane {
+	-fx-background-image: url(/img/EndDog.jpg);
+	-fx-background-size: cover;
+	-fx-background-position: center center;
+}
+
+#endCatPane {
+	-fx-background-image: url(/img/EndCat.jpg);
+	-fx-background-size: cover;
+	-fx-background-position: center center;
+}
+
+#endMulPane {
+	-fx-background-image: url(/img/EndMul.png);
+	-fx-background-size: cover;
+	-fx-background-position: center center;
+}
+
+#Quiz1Pane {
+	-fx-background-image: url(/img/Quiz1);
+	-fx-background-size: cover;
+	-fx-background-position: center center;
+}
+
+#Quiz2Pane {
+	-fx-background-image: url(/img/Quiz2);
+	-fx-background-size: cover;
+	-fx-background-position: center center;
+}
